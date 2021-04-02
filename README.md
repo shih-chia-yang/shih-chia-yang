@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shih-chia-yang
+- 👋 Hi, I’m @chia-yang-shih
 - my skill is c# , .net core , powershell , asp .net core mvc
 - 👀 I’m interested in DevOps & automation now
 - 🌱 I’m currently learning python & linux
