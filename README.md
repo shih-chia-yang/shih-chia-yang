@@ -3,7 +3,7 @@
 - 👀 I’m interested in DevOps & automation now
 - 🌱 I’m currently learning python & linux
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... eric19850514@hotmail.com
 
 <!---
 shih-chia-yang/shih-chia-yang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
